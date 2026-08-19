@@ -1,14 +1,31 @@
-# Portfólio Python - Iniciante
+# Python Learning Portfolio
 
-Este repositório contém meus primeiros exercícios e estudos em Python.
+Este repositório reúne meus estudos e projetos práticos desenvolvidos durante meu aprendizado de Python.
 
-## Sobre mim
-Estou iniciando na área de programação, focando em lógica de programação e desenvolvimento com Python.
+## Sobre
 
-## Objetivo
-Evoluir através de projetos práticos e registrar meu progresso no GitHub.
+Estou estudando programação com foco em Python, lógica de programação e desenvolvimento de aplicações. Este repositório registra minha evolução por meio de exercícios e pequenos projetos práticos.
 
 ## Conteúdo
-- Exercícios básicos de Python
+
+- Fundamentos de Python
+- Variáveis e tipos de dados
+- Operações e expressões
+- Estruturas condicionais
 - Lógica de programação
-- Estudos iniciais
+- Exercícios práticos
+- Pequenos projetos
+
+## Projetos
+
+### Calculadora Simples
+
+Programa desenvolvido para praticar operações matemáticas básicas e utilização de variáveis em Python.
+
+### Simulador de Financiamento
+
+Programa simples que aplica uma regra de negócio relacionada à análise de financiamento imobiliário, utilizando variáveis, operações matemáticas e estruturas condicionais.
+
+## Objetivo
+
+Continuar desenvolvendo minhas habilidades em Python por meio de projetos práticos, registrando minha evolução e aplicando os conceitos aprendidos em situações reais.
