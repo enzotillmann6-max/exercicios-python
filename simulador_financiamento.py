@@ -1,4 +1,4 @@
-nome_cliente = "Ganimedes"
+nome_cliente = "Lucas"
 renda = 4000
 parcela = 1200
 
