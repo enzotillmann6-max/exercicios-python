@@ -1,8 +1,10 @@
-nome_cliente = "Lucas"
-renda = 4000
-parcela = 1200
+nome_cliente = input("Qual o seu nome? ")
+renda = int(input("Qual a sua renda? "))
+parcela = int(input("Qual a parcela? "))
 
 if renda * 0.30 >= parcela:
-    print("Status: Aprovado")
+    print(f"Olá {nome_cliente}, seu financiamento foi aprovado!")
+    print(f"Parcela: R$ {parcela:.2f} | Limite: R$ {renda * 0.30:.2f}")
 else:
-    print("Reprovado")
+    print(f"Olá {nome_cliente}, seu financiamento foi reprovado.")
+    print(f"Parcela: R$ {parcela:.2f} | Limite: R$ {renda * 0.30:.2f}")
